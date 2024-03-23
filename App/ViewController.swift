@@ -58,7 +58,7 @@ class ViewController: UIViewController {
 //    func counterLabel() {
 //        label.text = "Нажатый: \(String(counter))"
 //    }
-
+// MARK:
 
 }
 
