@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  App
 //
-//  Created by Admin on 14.03.2024.
+//  Created by Admin on 14.03.2024..
 //
 
 import UIKit
