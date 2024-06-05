@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  App
 //
-//  Created by Admin on 14.03.2024..
+//  Created by Admin on 14.03.2024...
 //
 
 import UIKit
@@ -11,7 +11,7 @@ class ViewController: UIViewController {
     
 
     var counter: Int = 0
-    //let textColor = UIColor(red: 155/255, green: 250/255, blue: 248/255, alpha: 1)
+    //let textColor = UIColor(red: 155/255, green: 250/255, blue: 248/255, alpha: 1)//
     
     @IBOutlet weak var label: UILabel!
     @IBOutlet weak var colorBtnStart: UIButton!
